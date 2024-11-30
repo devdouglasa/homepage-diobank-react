@@ -1,5 +1,5 @@
 # Desenvolvendo o Dio Bank
-desenvolvido por [Nathally Souza](https://github.com/nathyts)
+desenvolvido por [Douglas Alisson](https://github.com/devdouglasa)
 
 #### Projeto desenvolvido com React
 
