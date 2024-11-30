@@ -1,0 +1,10 @@
+.container-footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container-footer-text {
+    font-size: 15px;
+    padding: 3px;
+}
