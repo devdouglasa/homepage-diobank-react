@@ -1,10 +1,7 @@
 import { Box, Center, Input } from "@chakra-ui/react"
 import { ButtonGreeting } from "./ButtonGreeting"
+import { login } from "../../services/login"
 import './Card.css'
-
-const login = () => {
-  return alert('Seja bem vindo Douglas!')
-}
 
 
 export const Card = () => {
